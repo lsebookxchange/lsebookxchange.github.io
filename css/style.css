@@ -1,0 +1,55 @@
+body {
+    max-width: 100%;
+}
+
+.jumbotron {
+	background-color: #b4ecf7;
+	background-image: url(../img/asfalt.jpg);
+	background-size: cover;
+	max-width: 100%;
+}
+
+.pulse{
+	-webkit-animation-duration:1s;
+	animation-duration: 1s
+}
+
+.iconspace{
+	padding-left: 20px
+	padding-right: 20px;
+}
+
+.profilepic {
+	max-width: 100%;
+}
+
+
+
+h1 {
+	color: #325d81;
+}
+
+h2 {
+	color:#4682b4;
+}
+
+
+.card-block {
+	margin-top: 5px;
+<div class="card-footer">
+							<a href="http://readinglists.lse.ac.uk/index.html" target="_blank">
+							<i class="fa fa-book fa-3x icon-space" aria-hidden="true">	
+							</i>
+							</a>
+						</div>	margin-bottom: 5px;
+}
+
+.card {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.iconspace {
+	padding-left:10px;
+	padding-right:10px;
+}
